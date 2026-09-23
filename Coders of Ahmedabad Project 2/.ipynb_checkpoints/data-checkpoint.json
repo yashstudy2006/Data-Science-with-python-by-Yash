@@ -1,0 +1,137 @@
+[
+    {
+        "username": "music_vibes",
+        "no_of_posts": 870,
+        "no_of_followers": 39000,
+        "type_of_page": "Music",
+        "no_of_following": 430,
+        "name": "Music Vibes",
+        "bio": "\ud83c\udfb5 Discover New Songs\n\ud83c\udfa7 Daily Playlists\n\ud83d\udce9 Promotions Open\nmusicvibes.fm"
+    },
+    {
+        "username": "fashion_by_isha",
+        "no_of_posts": 620,
+        "no_of_followers": 28000,
+        "type_of_page": "Fashion",
+        "no_of_following": 530,
+        "name": "Isha | Fashion Creator",
+        "bio": "\ud83d\udc57 Daily Outfit Inspiration\n\u2728 Beauty & Lifestyle\n\ud83d\udce9 DM for promotions\nfashionbyisha.com"
+    },
+    {
+        "username": "daily_motivation",
+        "no_of_posts": 1020,
+        "no_of_followers": 55,
+        "type_of_page": "Education",
+        "no_of_following": 120,
+        "name": "Daily Motivation",
+        "bio": "\ud83d\udd25 Quotes & Success Stories\n\ud83c\udf1f Inspire Every Day\n\ud83d\udce9 Partnership Requests\ndailymotivation.in"
+    },
+    {
+        "username": "finance_with_kunal",
+        "no_of_posts": 205,
+        "no_of_followers": 17000,
+        "type_of_page": "Finance",
+        "no_of_following": 240,
+        "name": "Kunal | Finance",
+        "bio": "\ud83d\udcc8 Stock Market\n\ud83d\udcb0 Investing Tips\n\ud83d\udce9 Business inquiries\nfinancewithkunal.in"
+    },
+    {
+        "username": "gaming_arena",
+        "no_of_posts": 390,
+        "no_of_followers": 42000,
+        "type_of_page": "Gaming",
+        "no_of_following": 710,
+        "name": "Gaming Arena",
+        "bio": "\ud83c\udfae PC & Mobile Games\n\ud83d\udd25 Live Streams Daily\n\ud83d\udce9 Brand Collaborations\ngamingarena.gg"
+    },
+    {
+        "username": "pet_lovers_club",
+        "no_of_posts": 315,
+        "no_of_followers": 11000,
+        "type_of_page": "Animals",
+        "no_of_following": 350,
+        "name": "Pet Lovers Club",
+        "bio": "\ud83d\udc36 Dogs | Cats | Pets\n\u2764\ufe0f Pet Care Tips\n\ud83d\udce9 Feature your pet\npetloversclub.com"
+    },
+    {
+        "username": "nature_clicks",
+        "no_of_posts": 480,
+        "no_of_followers": 14,
+        "type_of_page": "Photography",
+        "no_of_following": 260,
+        "name": "Nature Clicks",
+        "bio": "\ud83c\udf3f Wildlife & Landscapes\n\ud83d\udcf8 Shot on DSLR\n\ud83d\udce9 Prints Available\nnatureclicks.com"
+    },
+    {
+        "username": "fit_with_aarav",
+        "no_of_posts": 540,
+        "no_of_followers": 18000,
+        "type_of_page": "Health & Wellness",
+        "no_of_following": 420,
+        "name": "Aarav | Fitness Coach",
+        "bio": "\ud83d\udcaa Transform Your Body\nDiet | Workout | Motivation\nOnline coaching available\nfitwithaarav.in"
+    },
+    {
+        "username": "travel_diaries_riya",
+        "no_of_posts": 185,
+        "no_of_followers": 9800,
+        "type_of_page": "Travel",
+        "no_of_following": 290,
+        "name": "Riya | Travel Blogger",
+        "bio": "Exploring Hidden Places\nBudget Travel Tips\nDM for partnerships\nriyatravels.com"
+    },
+    {
+        "username": "tech_world_raj",
+        "no_of_posts": 210,
+        "no_of_followers": 12500,
+        "type_of_page": "Science & Technology",
+        "no_of_following": 340,
+        "name": "Raj | Tech Reviews",
+        "bio": "Smartphones | AI | Gadgets Honest reviews & tips DM for collaborations\ntechworldraj.com"
+    },
+    {
+        "username": "art_by_sana",
+        "no_of_posts": 154,
+        "no_of_followers": 89,
+        "type_of_page": "Art",
+        "no_of_following": 170,
+        "name": "Sana | Artist",
+        "bio": "\ud83c\udfa8 Digital & Traditional Art\n\ud83d\udd8c\ufe0f Commission Open\n\ud83d\udce9 DM to Order\nartbysana.com"
+    },
+    {
+        "username": "foodie_krishna",
+        "no_of_posts": 760,
+        "no_of_followers": 22000,
+        "type_of_page": "Food & Drink",
+        "no_of_following": 610,
+        "name": "Krishna | Food Lover",
+        "bio": "Street Food Explorer\nReviews & Recipes\nDM for collabs\nzomato.com"
+    },
+    {
+        "username": "ai_future_lab",
+        "no_of_posts": 265,
+        "no_of_followers": 26000,
+        "type_of_page": "Artificial Intelligence",
+        "no_of_following": 310,
+        "name": "AI Future Lab",
+        "bio": "\ud83e\udd16 AI Tools & News\n\ud83e\udde0 Machine Learning Updates\n\ud83d\udce9 Business Contact\naifuturelab.ai"
+    },
+    {
+        "username": "code_with_neha",
+        "no_of_posts": 134,
+        "no_of_followers": 15000,
+        "type_of_page": "Education",
+        "no_of_following": 180,
+        "name": "Neha | Software Engineer",
+        "bio": "\ud83d\udcbb Python | DSA | AI\n\ud83d\ude80 Helping Beginners Learn Coding\n\ud83d\udce9 Workshops & Mentorship\ncodewithneha.dev"
+    },
+    {
+        "username": "startup_guru",
+        "no_of_posts": 98,
+        "no_of_followers": 31000,
+        "type_of_page": "Business",
+        "no_of_following": 540,
+        "name": "Startup Guru",
+        "bio": "\ud83d\ude80 Startup News & Funding\n\ud83d\udcbc Founder Stories\n\ud83d\udce9 Feature your startup\nstartupguru.in"
+    }
+]

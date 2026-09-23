@@ -1,0 +1,10 @@
+Project 1: Coders of Ahmedabad
+
+📌 Cleaning & Structuring Data
+📌 Finding "People You May Know"
+📌 Finding "Pages You Might Like"
+📌 Understanding the complete project workflow
+
+Complete learning, debugging, and understanding how data can be used to build recommendation style features.
+
+One project down. More to go. 💻🔥
